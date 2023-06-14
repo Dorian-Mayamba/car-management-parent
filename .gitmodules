@@ -1,0 +1,9 @@
+[submodule "car-management-client"]
+	path = car-management-client
+	url = https://github.com/Dorian-Mayamba/car-management-client.git
+[submodule "car-management"]
+	path = car-management
+	url = https://github.com/Dorian-Mayamba/car-management
+	branch = main
+[submodule "car-management-client/"]
+	branch = main
